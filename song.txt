@@ -4,3 +4,5 @@ This is Yera
 
 Right now, I am studying an EPAM DE course
 for which I created this repo to practice git
+
+Today is the second day of studying the course
